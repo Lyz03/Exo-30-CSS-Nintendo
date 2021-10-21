@@ -60,28 +60,10 @@ nav div {
     height: auto;
 }
 
-/*
-.nav_items {
-    display: inline-block;
-    position: relative;
-    left: 68%;
-    list-style-type: none;
-    border: 1px solid black;
+.second_navbar div {
+    height: 72px;
 }
 
-img {
-    display: block;
+.second_navbar div.small {
     height: 50px;
-    width: auto;
 }
-
-
-.second_navbar {
-    position: fixed;
-    top: 72px;
-    width: 72px;
-    padding-left: 12px;
-    border-right: 1px solid #bf0010;
-    background: #e60012;
-}
- */
